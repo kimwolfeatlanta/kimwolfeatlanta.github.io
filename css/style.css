@@ -43,12 +43,11 @@ body {
 
 .copy {
     width: 400px;
-    margin: 100px 950px 0;
+    margin: 50px 950px 0;
     color: #000;
     font-size: 16px;
     font-family: Helvetica, Arial, sans-serif;
     line-height: 1.5;
-    z-index: 10;
 }
    
 .button {
